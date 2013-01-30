@@ -1,0 +1,9 @@
+The following files
+
+parse.y
+pfctl_parser.c
+pfctl_parser.h
+
+are meant to be links to their src/sbin/pfctl counterparts.
+
+All code compiled correctly as of OpenBSD 3.0-current 01/10/02.
